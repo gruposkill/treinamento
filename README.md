@@ -5,4 +5,4 @@ Treinamento
 https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 ## Correções
-Utilizar a codificação ISO8859-1
+Utilizar a codificação ISO-8859-1
